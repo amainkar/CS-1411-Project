@@ -1,4 +1,4 @@
-# CS-1411-Project
+# Maze-Solver
 
 Make a program that solves a maze given in the .txt file.
 
